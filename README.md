@@ -1,13 +1,13 @@
 # SVG Fundamentals
 ## 1. Introduction
 
-Create a simple SVG (circle)
-Use SVG
-- img
-- embeded
-- object
-- iframe
-- inline svg
+- Create a simple SVG (circle)
+- Use SVG
+  - img
+  - embeded
+  - object
+  - iframe
+  - inline SVG
 
 ## 2. Working with svg code
 

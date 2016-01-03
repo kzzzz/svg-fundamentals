@@ -18,14 +18,19 @@ House building
 - utilities - animation
 
 #### Graphical elements
+- circle
+- rect
+- line
+- path
+- etc.
 
 #### Container/gradient elements
 - defs
 - g
 - symbol
 - gradient
--- Linear
--- Radial
+  - Linear
+  -Radial
 
 #### Animation elements
 Three main methods for SVG animation

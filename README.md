@@ -28,7 +28,10 @@ House building
 -- Radial
 
 #### Animation elements
-
+Three main methods for SVG animation
+- CSS
+- SMIL (Not supported by IE, even IE 11)
+- JavaScript
 
 ### Styling SVG with CSS
 - fill property (within the svg element)
@@ -41,3 +44,9 @@ House building
 - Inline SVG sprites
 - SVG fragment identifier (using **view** element)
 - Embed SVG as background in css
+
+## 4. SVG optimization, browser support, resources, and examples
+
+Optimization
+- sprites
+- SVG Editor (online application)
